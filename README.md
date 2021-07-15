@@ -1,7 +1,7 @@
 # Night Owl 🌌
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl)
-[![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://aka.ms/nightowl)
+[![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://marketplace.visualstudio.com/items?itemName=CoderHolicLT.night-owl)
+[![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://marketplace.visualstudio.com/items?itemName=CoderHolicLT.night-owl)
 
 A Visual Studio Code theme for the night owls out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
@@ -22,14 +22,14 @@ About this theme, and some of the considerations made while creating it (as well
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
-4.  Search for `night owl`
+4.  Search for `night owlet`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
+7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owlet**
 
 ## Disable Italics
 
-If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Night Owl No Italics** as your color theme.
+If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Night Owlet No Italics** as your color theme.
 
 ## Other versions
 
