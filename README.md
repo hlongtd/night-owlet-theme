@@ -1,4 +1,4 @@
-# Night Owl 🌌
+# Night Owlet 🌌
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://marketplace.visualstudio.com/items?itemName=CoderHolicLT.night-owl)
 [![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://marketplace.visualstudio.com/items?itemName=CoderHolicLT.night-owl)
@@ -9,11 +9,11 @@ As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version
 
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
-## Night Owl
+## Night Owlet
 ![First Screen](first-screen.jpg)
 ![Night Owl Frameworks](three-dark.jpg)
 
-## Light Owl
+## Light Owlet
 ![First Screen Light](light-owl-full.jpg)
 ![Light Owl Frameworks](three-light.jpg)
 
